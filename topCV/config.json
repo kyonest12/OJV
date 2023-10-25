@@ -1,0 +1,26 @@
+[
+  {
+    "salaryIn": ".job-detail__info--section-content",
+    "salary_type": ".job-detail__info--section-content-title",
+    "salary_value": ".job-detail__info--section-content-value",
+    "detail": ".job-description__item",
+    "detail_type": "h3",
+    "value": ".job-description__item--content",
+    "benefit": "Quyền lợi"
+  },
+  {
+    "salaryIn": ".basic-information-item__data",
+    "salary_type": ".basic-information-item__data--label",
+    "salary_value": ".basic-information-item__data--value",
+    "detail": ".premium-job-description__box",
+    "detail_type": "h2",
+    "value": ".premium-job-description__box--content",
+    "benefit": "Quyền lợi được hưởng"
+  },
+  {
+    "detail": ".box-info",
+    "detail_type": "h2",
+    "value": ".content-tab",
+    "benefit": "Quyền lợi được hưởng"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "class-requirements": "requirements",
+  "tag-title": "title",
+  "class-information": "box-summary.link-list",
+  "class-summary_item": "row.summary-item",
+  "class-summary_content": "col-xs-10.summary-content",
+  "class-value": "content-label",
+  "class-content": "content",
+  "class-list_job_benefits": ["benefits", "benefit.row"],
+  "class-job_benefits.append": "benefit-name.col-xs-11",
+  "class-job_description": "description",
+  "class-job_location": "location-name.col-xs-11",
+  "class-job_salary": "salary"
+}

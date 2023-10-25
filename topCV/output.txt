@@ -1,0 +1,2279 @@
+<link rel="stylesheet" href="https://static.topcv.vn/v4/css/components/desktop/jobs/job-list-default.043937992a09e356.css">
+
+<div class="job-list-default">
+                                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1144623" data-job-position="1"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/quan-ly-san-xuat/1144623.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-sheang-lih-cycle-viet-nam-62e234d7d63e0.jpg" class="w-100" alt="CÔNG TY TNHH SHEANG LIH CYCLE (VIỆT NAM)"
+                             title="Quản Lý Sản Xuất">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/quan-ly-san-xuat/1144623.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Quản Lý Sản Xuất"
+                                        >Quản Lý Sản Xuất</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-sheang-lih-cycle-viet-nam/58090.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH SHEANG LIH CYCLE (VIỆT NAM)" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH SHEANG LIH CYCLE (VIỆT NAM)</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        11 - 13 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Bình Dương: Dĩ An&lt;/p&gt;" data-placement="top"
+                                >Bình Dương</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>21</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/quan-ly-san-xuat/1144623.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1144623"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1099932" data-job-position="2"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-o-to/1099932.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-toyota-ly-thuong-kiet-63bbdd2fef892.jpg" class="w-100" alt="CÔNG TY TNHH TOYOTA LÝ THƯỜNG KIỆT"
+                             title="Nhân Viên Kinh Doanh Ô Tô">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-o-to/1099932.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Kinh Doanh Ô Tô"
+                                        >Nhân Viên Kinh Doanh Ô Tô</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-toyota-ly-thuong-kiet/121093.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH TOYOTA LÝ THƯỜNG KIỆT" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH TOYOTA LÝ THƯỜNG KIỆT</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        4.5 - 20 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Tân Phú, Tân Bình&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>27</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-o-to/1099932.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1099932"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1154432" data-job-position="3"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/software-developers/1154432.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/DBvB5JNrOliTmHJbnXqt3nwv1ORm7cAc_1697528343____9141e27d2cda61813aaf1a01565df347.png" class="w-100" alt="CÔNG TY CỔ PHẦN NHẤT PHƯƠNG"
+                             title="Software Developers">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/software-developers/1154432.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Software Developers"
+                                        >Software Developers</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-co-phan-nhat-phuong/156031.html" data-toggle="tooltip"
+                                   title="CÔNG TY CỔ PHẦN NHẤT PHƯƠNG" data-placement="top"
+                                   target="_blank">CÔNG TY CỔ PHẦN NHẤT PHƯƠNG</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 35 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Quận 1&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>31</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/software-developers/1154432.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1154432"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1141282" data-job-position="4"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh/1141282.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://static.topcv.vn/v4/image/normal-company/logo_default.png" class="w-100" alt="CÔNG TY TNHH MỸ PHẨM DẠ THẢO LAN"
+                             title="Nhân Viên Kinh Doanh">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh/1141282.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Kinh Doanh"
+                                        >Nhân Viên Kinh Doanh</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-my-pham-da-thao-lan/112704.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH MỸ PHẨM DẠ THẢO LAN" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH MỸ PHẨM DẠ THẢO LAN</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 20 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Bình Thạnh&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>17</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh/1141282.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1141282"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1146220" data-job-position="5"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/chuyen-vien-hanh-chinh-nhan-su-biet-tieng-anh/1146220.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-yet-1b47cf638f5fe3d42513c8d37710a68c-652cae3a3c57d.jpg" class="w-100" alt="CÔNG TY TNHH YET"
+                             title="Chuyên Viên Hành Chính Nhân Sự ( Biết Tiếng Anh )">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/chuyen-vien-hanh-chinh-nhan-su-biet-tieng-anh/1146220.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Chuyên Viên Hành Chính Nhân Sự ( Biết Tiếng Anh )"
+                                        >Chuyên Viên Hành Chính Nhân Sự ( Biết Tiếng Anh )</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-yet/155790.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH YET" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH YET</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        9 - 11 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Bình Thạnh&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>5</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/chuyen-vien-hanh-chinh-nhan-su-biet-tieng-anh/1146220.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1146220"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1143022" data-job-position="6"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-tu-van-tuyen-sinh-co-kinh-nghiem-mang-giao-duc-thu-nhap-len-den-25-trieu/1143022.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-kapla-vietnam-63e9baa0efaad.jpg" class="w-100" alt="CÔNG TY TNHH KAPLA VIETNAM"
+                             title="Nhân Viên Tư Vấn Tuyển Sinh (Có Kinh Nghiệm Mảng Giáo Dục, Thu Nhập Lên Đến 25 Triệu)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-tu-van-tuyen-sinh-co-kinh-nghiem-mang-giao-duc-thu-nhap-len-den-25-trieu/1143022.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Tư Vấn Tuyển Sinh (Có Kinh Nghiệm Mảng Giáo Dục, Thu Nhập Lên Đến 25 Triệu)"
+                                        >Nhân Viên Tư Vấn Tuyển Sinh (Có Kinh Nghiệm Mảng Giáo Dục, Thu Nhập Lên Đến 25 Triệu)</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-kapla-vietnam/116667.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH KAPLA VIETNAM" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH KAPLA VIETNAM</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        8 - 12 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Tân Bình&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-tu-van-tuyen-sinh-co-kinh-nghiem-mang-giao-duc-thu-nhap-len-den-25-trieu/1143022.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1143022"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1142448" data-job-position="7"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan/1142448.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-thuong-mai-vhc-62592f3959d52.jpg" class="w-100" alt="CÔNG TY TNHH THƯƠNG MẠI VHC"
+                             title="Nhân Viên Thu Ngân">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan/1142448.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Thu Ngân"
+                                        >Nhân Viên Thu Ngân</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-thuong-mai-vhc/97535.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH THƯƠNG MẠI VHC" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH THƯƠNG MẠI VHC</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        6 - 8 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Bắc Từ Liêm, Long Biên, Hoàng Mai, Thanh Xuân&lt;br/&gt;Bắc Ninh: TP Bắc Ninh&lt;/p&gt;" data-placement="top"
+                                >Hà Nội, Bắc Ninh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>17</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan/1142448.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1142448"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1144840" data-job-position="8"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/marketing-leader-supervisor-ung-tuyen-bang-cv-tieng-trung-hoac-anh/1144840.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/tH2bXAg0JIHm6ETMYNZ2X9dkoTrAlqkS_1687831022____5bbd2bfccc53e38ff89dd189d7bdee2f.jpg" class="w-100" alt="CÔNG TY TNHH AGARI"
+                             title="Marketing Leader/ Supervisor (Ứng Tuyển Bằng Cv Tiếng Trung Hoặc Anh)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/marketing-leader-supervisor-ung-tuyen-bang-cv-tieng-trung-hoac-anh/1144840.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Marketing Leader/ Supervisor (Ứng Tuyển Bằng Cv Tiếng Trung Hoặc Anh)"
+                                        >Marketing Leader/ Supervisor (Ứng Tuyển Bằng Cv Tiếng Trung Hoặc Anh)</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-agari/146823.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH AGARI" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH AGARI</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Trên 20 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Quận 7&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/marketing-leader-supervisor-ung-tuyen-bang-cv-tieng-trung-hoac-anh/1144840.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1144840"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1153156" data-job-position="9"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-marketing-tai-ha-dong-ha-noi-thu-nhap-10-30-trieu/1153156.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-tnt-metagarment-a1b7d265b8d9747149925fa63faf1ec3-6493cb8c608db.jpg" class="w-100" alt="CÔNG TY TNHH TNT METAGARMENT"
+                             title="Nhân Viên Marketing Tại Hà Đông- Hà Nội (Thu Nhập 10 -30 Triệu)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-marketing-tai-ha-dong-ha-noi-thu-nhap-10-30-trieu/1153156.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Marketing Tại Hà Đông- Hà Nội (Thu Nhập 10 -30 Triệu)"
+                                        >Nhân Viên Marketing Tại Hà Đông- Hà Nội (Thu Nhập 10 -30 Triệu)</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-tnt-metagarment/146493.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH TNT METAGARMENT" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH TNT METAGARMENT</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        10 - 30 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Hà Đông&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>29</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-marketing-tai-ha-dong-ha-noi-thu-nhap-10-30-trieu/1153156.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1153156"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1142834" data-job-position="10"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-sales-online-thu-nhap-upto-15m-tai-ha-noi/1142834.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/lBOecL4hIykFilwdoIaenu5G9g120AG0_1681014874____3bdec41add2da9e5aabd4f3f4054d237.jpeg" class="w-100" alt="Công ty TNHH Thương mại &amp; giải pháp du lịch Share Group"
+                             title="Nhân Viên Sales Online (Thu Nhập Upto 15M) Tại Hà Nội">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-sales-online-thu-nhap-upto-15m-tai-ha-noi/1142834.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Sales Online (Thu Nhập Upto 15M) Tại Hà Nội"
+                                        >Nhân Viên Sales Online (Thu Nhập Upto 15M) Tại Hà Nội</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-thuong-mai-giai-phap-du-lich-share-group/140053.html" data-toggle="tooltip"
+                                   title="Công ty TNHH Thương mại &amp; giải pháp du lịch Share Group" data-placement="top"
+                                   target="_blank">Công ty TNHH Thương mại &amp; giải pháp du lịch Share Group</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 15 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>29</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-sales-online-thu-nhap-upto-15m-tai-ha-noi/1142834.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1142834"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1152001" data-job-position="11"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-xuat-nhap-khau-khong-yeu-cau-kinh-nghiem-thu-nhap-len-den-20-trieu/1152001.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-xuat-nhap-khau-hp-hair-cfb36d5695f8dd65e1cf8de05ee28947-643e009895917.jpg" class="w-100" alt="CÔNG TY TNHH XUẤT NHẬP KHẨU HP HAIR"
+                             title="Nhân Viên Kinh Doanh Xuất Nhập Khẩu (Không Yêu Cầu Kinh Nghiệm Thu Nhập Lên Đến 20 Triệu)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-xuat-nhap-khau-khong-yeu-cau-kinh-nghiem-thu-nhap-len-den-20-trieu/1152001.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Kinh Doanh Xuất Nhập Khẩu (Không Yêu Cầu Kinh Nghiệm Thu Nhập Lên Đến 20 Triệu)"
+                                        >Nhân Viên Kinh Doanh Xuất Nhập Khẩu (Không Yêu Cầu Kinh Nghiệm Thu Nhập Lên Đến 20 Triệu)</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-xuat-nhap-khau-hp-hair/140823.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH XUẤT NHẬP KHẨU HP HAIR" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH XUẤT NHẬP KHẨU HP HAIR</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        7 - 20 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Bắc Ninh: Từ Sơn&lt;/p&gt;" data-placement="top"
+                                >Bắc Ninh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>29</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-xuat-nhap-khau-khong-yeu-cau-kinh-nghiem-thu-nhap-len-den-20-trieu/1152001.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1152001"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1145666" data-job-position="12"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-buong-phong-khach-san/1145666.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/9365e12543f176f024cca8a75d72b783-5eacda7b18c2f.jpg" class="w-100" alt="CÔNG TY CỔ PHẦN VIỄN THÔNG DI ĐỘNG"
+                             title="Nhân Viên Buồng Phòng Khách Sạn">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-buong-phong-khach-san/1145666.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Buồng Phòng Khách Sạn"
+                                        >Nhân Viên Buồng Phòng Khách Sạn</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-co-phan-vien-thong-di-dong/36310.html" data-toggle="tooltip"
+                                   title="CÔNG TY CỔ PHẦN VIỄN THÔNG DI ĐỘNG" data-placement="top"
+                                   target="_blank">CÔNG TY CỔ PHẦN VIỄN THÔNG DI ĐỘNG</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 10 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Quận 4&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>21</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-buong-phong-khach-san/1145666.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1145666"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1153401" data-job-position="13"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/fresher-software-engineer-the-training-program/1153401.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-athena-studio-62397452784d6.jpg" class="w-100" alt="CÔNG TY TNHH ATHENA STUDIO"
+                             title="Fresher Software Engineer (The Training Program)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/fresher-software-engineer-the-training-program/1153401.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Fresher Software Engineer (The Training Program)"
+                                        >Fresher Software Engineer (The Training Program)</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-athena-studio/91956.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH ATHENA STUDIO" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH ATHENA STUDIO</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Trên 8 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Tân Bình&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>30</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/fresher-software-engineer-the-training-program/1153401.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1153401"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1147871" data-job-position="14"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-bao-hiem-lien-doanh-ngan-hang-vietinbank-hn-long-bien-thanh-xuan-ha-dong/1147871.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-manulife-viet-nam-6125fb3a33eb4.jpg" class="w-100" alt="Công ty TNHH Manulife Việt Nam"
+                             title="Chuyên Viên Tư Vấn Bảo Hiểm Liên Doanh Ngân Hàng VietinBank (HN: Long Biên, Thanh Xuân, Hà Đông)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-bao-hiem-lien-doanh-ngan-hang-vietinbank-hn-long-bien-thanh-xuan-ha-dong/1147871.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Chuyên Viên Tư Vấn Bảo Hiểm Liên Doanh Ngân Hàng VietinBank (HN: Long Biên, Thanh Xuân, Hà Đông)"
+                                        >Chuyên Viên Tư Vấn Bảo Hiểm Liên Doanh Ngân Hàng VietinBank (HN: Long Biên, Thanh Xuân, Hà Đông)</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-manulife-viet-nam/16830.html" data-toggle="tooltip"
+                                   title="Công ty TNHH Manulife Việt Nam" data-placement="top"
+                                   target="_blank">Công ty TNHH Manulife Việt Nam</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Trên 10 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Thanh Xuân, Long Biên, Hà Đông, Cầu Giấy, Chương Mỹ&lt;br/&gt;Hồ Chí Minh&lt;br/&gt;Toàn Quốc&lt;br/&gt;Khánh Hoà&lt;br/&gt;Miền Bắc&lt;br/&gt;Miền Nam&lt;br/&gt;Miền Trung&lt;/p&gt;" data-placement="top"
+                                >Hà Nội &amp; 6 nơi khác</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-bao-hiem-lien-doanh-ngan-hang-vietinbank-hn-long-bien-thanh-xuan-ha-dong/1147871.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1147871"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1150960" data-job-position="15"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/sales-xuat-khau-dao-thia-dia-go-san-pham-xanh-luong-tu-15-trieu/1150960.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-ke-go-62a6d728de8d0.jpg" class="w-100" alt="Công ty TNHH Kẻ Gỗ"
+                             title="Sales Xuất Khẩu Dao Thìa Dĩa Gỗ (Sản Phẩm Xanh) Lương Từ 15 Triệu">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/sales-xuat-khau-dao-thia-dia-go-san-pham-xanh-luong-tu-15-trieu/1150960.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Sales Xuất Khẩu Dao Thìa Dĩa Gỗ (Sản Phẩm Xanh) Lương Từ 15 Triệu"
+                                        >Sales Xuất Khẩu Dao Thìa Dĩa Gỗ (Sản Phẩm Xanh) Lương Từ 15 Triệu</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-ke-go/494.html" data-toggle="tooltip"
+                                   title="Công ty TNHH Kẻ Gỗ" data-placement="top"
+                                   target="_blank">Công ty TNHH Kẻ Gỗ</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Trên 15 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Cầu Giấy&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/sales-xuat-khau-dao-thia-dia-go-san-pham-xanh-luong-tu-15-trieu/1150960.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1150960"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1143875" data-job-position="16"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-kenh-horeca-va-dai-ly-thu-nhap-tu-15-25-trieu/1143875.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/PQ5WIBGD3biQiJBRG75m3BsUCeL1zRDD_1676426880____3a0497736f98761db18cbce5f9011758.jpg" class="w-100" alt="CÔNG TY TNHH ĐẢO HẢI SẢN"
+                             title="Nhân Viên Kinh Doanh Kênh Horeca Và Đại Lý - Thu Nhập Từ 15 - 25 Triệu">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-kenh-horeca-va-dai-ly-thu-nhap-tu-15-25-trieu/1143875.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Kinh Doanh Kênh Horeca Và Đại Lý - Thu Nhập Từ 15 - 25 Triệu"
+                                        >Nhân Viên Kinh Doanh Kênh Horeca Và Đại Lý - Thu Nhập Từ 15 - 25 Triệu</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-dao-hai-san/28735.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH ĐẢO HẢI SẢN" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH ĐẢO HẢI SẢN</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        15 - 25 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Tân Bình&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>11</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-kenh-horeca-va-dai-ly-thu-nhap-tu-15-25-trieu/1143875.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1143875"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1147828" data-job-position="17"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-nhan-vien-tu-van-nhan-vien-phat-trien-thi-truong-thu-nhap-len-den-30-trieu/1147828.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-co-phan-dau-tu-va-tu-van-tai-chinh-viet-tin-5b39893777e5b_rs.jpg" class="w-100" alt="Công ty Cổ phần Đầu tư và Tư vấn Tài chính Việt Tín"
+                             title="Nhân Viên Kinh Doanh / Nhân Viên Tư Vấn/ Nhân Viên Phát Triển Thị Trường Thu Nhập Lên Đến 30 Triệu">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-nhan-vien-tu-van-nhan-vien-phat-trien-thi-truong-thu-nhap-len-den-30-trieu/1147828.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Kinh Doanh / Nhân Viên Tư Vấn/ Nhân Viên Phát Triển Thị Trường Thu Nhập Lên Đến 30 Triệu"
+                                        >Nhân Viên Kinh Doanh / Nhân Viên Tư Vấn/ Nhân Viên Phát Triển Thị Trường Thu Nhập Lên Đến 30 Triệu</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-co-phan-dau-tu-va-tu-van-tai-chinh-viet-tin/11388.html" data-toggle="tooltip"
+                                   title="Công ty Cổ phần Đầu tư và Tư vấn Tài chính Việt Tín" data-placement="top"
+                                   target="_blank">Công ty Cổ phần Đầu tư và Tư vấn Tài chính Việt Tín</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        10 - 30 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Quận 3&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>6</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-nhan-vien-tu-van-nhan-vien-phat-trien-thi-truong-thu-nhap-len-den-30-trieu/1147828.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1147828"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1153011" data-job-position="18"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/cua-hang-truong/1153011.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://static.topcv.vn/v4/image/normal-company/logo_default.png" class="w-100" alt="HỘ KINH DOANH GONGFU CHICKEN"
+                             title="Cửa Hàng Trưởng">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/cua-hang-truong/1153011.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Cửa Hàng Trưởng"
+                                        >Cửa Hàng Trưởng</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/ho-kinh-doanh-gongfu-chicken/156384.html" data-toggle="tooltip"
+                                   title="HỘ KINH DOANH GONGFU CHICKEN" data-placement="top"
+                                   target="_blank">HỘ KINH DOANH GONGFU CHICKEN</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 13 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/cua-hang-truong/1153011.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1153011"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="993027" data-job-position="19"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/truong-phong-marketing/993027.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-co-phan-dao-tao-ana-beauty-academy-5822de99af11796fba402a64e17f4f38-6438d0d7b7773.jpg" class="w-100" alt="Công ty Cổ phần đào tạo Ana Beauty Academy"
+                             title="Trưởng Phòng Marketing">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/truong-phong-marketing/993027.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Trưởng Phòng Marketing"
+                                        >Trưởng Phòng Marketing</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-co-phan-dao-tao-ana-beauty-academy/79136.html" data-toggle="tooltip"
+                                   title="Công ty Cổ phần đào tạo Ana Beauty Academy" data-placement="top"
+                                   target="_blank">Công ty Cổ phần đào tạo Ana Beauty Academy</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Trên 30 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Gò Vấp&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>28</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/truong-phong-marketing/993027.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="993027"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="911573" data-job-position="20"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-sale-online-thu-nhap-9-13-trieu-tai-nam-tu-liem-ha-noi/911573.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-co-phan-my-pham-thien-nhien-co-mem-609a4c45e6279.jpg" class="w-100" alt="CÔNG TY CỔ PHẦN MỸ PHẨM THIÊN NHIÊN CỎ MỀM"
+                             title="Nhân Viên Sale Online (Thu Nhập 9 - 13 Triệu) Tại Nam Từ Liêm - Hà Nội">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-sale-online-thu-nhap-9-13-trieu-tai-nam-tu-liem-ha-noi/911573.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Sale Online (Thu Nhập 9 - 13 Triệu) Tại Nam Từ Liêm - Hà Nội"
+                                        >Nhân Viên Sale Online (Thu Nhập 9 - 13 Triệu) Tại Nam Từ Liêm - Hà Nội</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-co-phan-my-pham-thien-nhien-co-mem/63587.html" data-toggle="tooltip"
+                                   title="CÔNG TY CỔ PHẦN MỸ PHẨM THIÊN NHIÊN CỎ MỀM" data-placement="top"
+                                   target="_blank">CÔNG TY CỔ PHẦN MỸ PHẨM THIÊN NHIÊN CỎ MỀM</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        9 - 13 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Nam Từ Liêm&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>22</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-sale-online-thu-nhap-9-13-trieu-tai-nam-tu-liem-ha-noi/911573.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="911573"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1146142" data-job-position="21"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-media-thu-nhap-tu-10-trieu-den-15-trieu/1146142.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/B9hqYuKfyoXuLOUpwR72AZNbIQFUxvrK_1645079846____857442eb88fc5d4791889c8fff218a11.jpg" class="w-100" alt="CÔNG TY TNHH PHÁT TRIỂN THƯƠNG MẠI TRẦN GIA"
+                             title="Nhân Viên Media Thu Nhập Từ 10 Triệu Đến 15 Triệu">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-media-thu-nhap-tu-10-trieu-den-15-trieu/1146142.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Media Thu Nhập Từ 10 Triệu Đến 15 Triệu"
+                                        >Nhân Viên Media Thu Nhập Từ 10 Triệu Đến 15 Triệu</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-phat-trien-thuong-mai-tran-gia/88745.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH PHÁT TRIỂN THƯƠNG MẠI TRẦN GIA" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH PHÁT TRIỂN THƯƠNG MẠI TRẦN GIA</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        10 - 15 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Nam Từ Liêm&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-media-thu-nhap-tu-10-trieu-den-15-trieu/1146142.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1146142"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1040620" data-job-position="22"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-luong-upto-20-trieu-ha-noi/1040620.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-phan-mem-nhan-hoa-603852402672a.jpg" class="w-100" alt="Công ty TNHH Phần mềm Nhân Hòa"
+                             title="Nhân Viên Kinh Doanh - Lương Upto 20 Triệu - Hà Nội">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-luong-upto-20-trieu-ha-noi/1040620.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Kinh Doanh - Lương Upto 20 Triệu - Hà Nội"
+                                        >Nhân Viên Kinh Doanh - Lương Upto 20 Triệu - Hà Nội</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-phan-mem-nhan-hoa/54522.html" data-toggle="tooltip"
+                                   title="Công ty TNHH Phần mềm Nhân Hòa" data-placement="top"
+                                   target="_blank">Công ty TNHH Phần mềm Nhân Hòa</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 20 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Đống Đa&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>14</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-luong-upto-20-trieu-ha-noi/1040620.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1040620"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1154683" data-job-position="23"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/ky-su-co-khi-long-bien-ha-noi-15tr-20tr/1154683.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/I5WReWLzqclnJvFtm8CEnIzXaJZfinvg_1663039890____57a3bb3ecc2a7ec9691842826d695254.png" class="w-100" alt="Công ty TNHH Công nghệ Metal Bắc Việt"
+                             title="Kỹ Sư Cơ Khí - Long Biên Hà Nội (15tr-20tr)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/ky-su-co-khi-long-bien-ha-noi-15tr-20tr/1154683.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Kỹ Sư Cơ Khí - Long Biên Hà Nội (15tr-20tr)"
+                                        >Kỹ Sư Cơ Khí - Long Biên Hà Nội (15tr-20tr)</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-cong-nghe-metal-bac-viet/118800.html" data-toggle="tooltip"
+                                   title="Công ty TNHH Công nghệ Metal Bắc Việt" data-placement="top"
+                                   target="_blank">Công ty TNHH Công nghệ Metal Bắc Việt</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        15 - 20 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Long Biên&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>36</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/ky-su-co-khi-long-bien-ha-noi-15tr-20tr/1154683.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1154683"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1152965" data-job-position="24"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/truong-nhom-tu-van-dinh-cu-level-senior-luong-cung-upto-20-ho-chi-minh/1152965.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-tnhh-tu-van-dau-tu-immica-62c4f9b08fdc7.jpg" class="w-100" alt="CÔNG TY TNHH TƯ VẤN ĐẦU TƯ IMMICA"
+                             title="Trưởng Nhóm Tư Vấn Định Cư (Level Senior) - Lương Cứng Upto 20 (Hồ Chí Minh)">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/truong-nhom-tu-van-dinh-cu-level-senior-luong-cung-upto-20-ho-chi-minh/1152965.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Trưởng Nhóm Tư Vấn Định Cư (Level Senior) - Lương Cứng Upto 20 (Hồ Chí Minh)"
+                                        >Trưởng Nhóm Tư Vấn Định Cư (Level Senior) - Lương Cứng Upto 20 (Hồ Chí Minh)</span>
+                                        <span class="icon-verified-employer level-five">
+<i class="fa-solid fa-circle-check icon-verified-employer-tooltip" data-toggle="tooltip" data-container="body"
+   data-html="true" title="
+  <b>Nhà tuyển dụng</b><span> đã được xác thực:</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực email tên miền công ty</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã xác thực số điện thoại</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Đã được duyệt Giấy phép kinh doanh</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Tài khoản NTD được tạo tối thiểu 6 tháng</span><br>
+  <span><i class='fa-solid fa-circle-check color-green'></i> Chưa có lịch sử bị báo cáo tin đăng</span><br>"
+   data-placement="top"></i></span>
+                                    </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-tnhh-tu-van-dau-tu-immica/109361.html" data-toggle="tooltip"
+                                   title="CÔNG TY TNHH TƯ VẤN ĐẦU TƯ IMMICA" data-placement="top"
+                                   target="_blank">CÔNG TY TNHH TƯ VẤN ĐẦU TƯ IMMICA</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 50 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hồ Chí Minh: Quận 1&lt;/p&gt;" data-placement="top"
+                                >Hồ Chí Minh</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>26</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/truong-nhom-tu-van-dinh-cu-level-senior-luong-cung-upto-20-ho-chi-minh/1152965.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1152965"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                                        <div class="job-item-default
+                                 bg-highlight  job-ta
+                                "
+                 data-job-id="1148549" data-job-position="25"
+                 data-u-sr-id="vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336"
+                 data-box="BoxSearchResult"
+                 >
+                <div class="avatar">
+                    <a target="_blank" href="https://www.topcv.vn/viec-lam/nhan-vien-content-marketing-di-lam-ngay-thu-nhap-toi-15-trieu/1148549.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                        <img src="https://cdn-new.topcv.vn/unsafe/150x/filters:format(webp)/https://static.topcv.vn/company_logos/cong-ty-co-phan-golden-pen-62e8f28cd13eb.jpg" class="w-100" alt="CÔNG TY CỔ PHẦN GOLDEN PEN"
+                             title="Nhân Viên Content Marketing (Đi Làm Ngay), Thu Nhập Tới 15 Triệu">
+                    </a>
+                                    </div>
+                <div class="body">
+                    <div class="body-content">
+                        <div class="title-block">
+                            <div>
+                                <h3 class="title">
+                                    <div class="box-label-top">
+                                        
+                                        
+                                        
+                                                                            </div>
+
+                                    <a target="_blank"                                     href="https://www.topcv.vn/viec-lam/nhan-vien-content-marketing-di-lam-ngay-thu-nhap-toi-15-trieu/1148549.html?ta_source=JobSearchList_LinkDetail&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336">
+                                        <span data-toggle="tooltip" data-container="body" data-placement="top"
+                                              title="Nhân Viên Content Marketing (Đi Làm Ngay), Thu Nhập Tới 15 Triệu"
+                                        >Nhân Viên Content Marketing (Đi Làm Ngay), Thu Nhập Tới 15 Triệu</span>
+                                                                            </a>
+                                </h3>
+                                <a class="company" href="https://www.topcv.vn/cong-ty/cong-ty-co-phan-golden-pen/53982.html" data-toggle="tooltip"
+                                   title="CÔNG TY CỔ PHẦN GOLDEN PEN" data-placement="top"
+                                   target="_blank">CÔNG TY CỔ PHẦN GOLDEN PEN</a>
+
+                                                                <div class="box-job-relevance-job">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i style="display: none;" class="fa-regular fa-star"></i>
+                                    <span class="box-job-relevance-job_text"></span>
+                                </div>
+                                                            </div>
+
+
+
+                            <div class="box-right">
+                                <label class="title-salary">
+                                                                        Tới 15 triệu
+                                </label>
+                                                                    <p class="quick-view-job-detail">Xem <span class="speed">nhanh</span> <i
+                                            class="fa-solid fa-chevrons-right"></i></p>
+                                                            </div>
+                        </div>
+
+                        
+
+                                            </div>
+
+
+                    <div class="info">
+                        <div class="label-content">
+                                                            <label class="address" data-toggle="tooltip" data-html="true"
+                                       title="&lt;p style=&#039;text-align: left&#039;&gt;Hà Nội: Hà Đông&lt;/p&gt;" data-placement="top"
+                                >Hà Nội</label>
+                                                        <label class="time">
+                                                                    Còn
+                                    <strong>24</strong>
+                                    ngày để ứng tuyển
+                                                            </label>
+
+                                                            <label class="address" data-container="body">
+                                    Cập nhật 1 giờ trước
+
+                                </label>
+                                                    </div>
+                        <div class="icon">
+                            <button data-redirect-to="https://www.topcv.vn/viec-lam/nhan-vien-content-marketing-di-lam-ngay-thu-nhap-toi-15-trieu/1148549.html?ta_source=JobSearchList_ButtonApplyFormCard&amp;u_sr_id=vhUSrv4JrbT2iYcQuspU5ltBodv5GhVoiFX4BYwJ_1698228336" class="btn btn-apply-now">
+                                <span>Ứng tuyển</span>
+                            </button>
+                                                            <div class="box-save-job">
+                                    <a data-id="1148549"
+                                       href="javascript:showLoginPopup('https://www.topcv.vn/tim-viec-lam-moi-nhat?page=5', 'Đăng nhập hoặc Đăng ký để lưu tin tuyển dụng')"
+                                       class="save box-save-job-hover" data-toggle="tooltip"
+                                       title="Bạn phải đăng nhập để lưu tin"><i class="fa-regular fa-heart"></i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                </div>
+                    </div>
+<script>
+    $(document).on('click touch', '.btn-apply-now', function (e) {
+        var link = $(this).data('redirect-to');
+        if (link) {
+            localStorage.setItem("trigger_apply_now", true);
+            if (window.qgTracking && window.qg) {
+                window.qg('event', 'hit_to_apply_now', window.qgTracking);
+            }
+            if (window.fbq) {
+                window.fbq('event', 'hit_to_apply_now');
+            }
+            window.open(link, '_blank');
+            e.stopPropagation();
+        }
+        window.trackingTopCV.sendClickApplyButtonInlist();
+    })
+    $(document).on('click', '.job-list-default a', function (e) {
+        e.stopPropagation();
+    })
+</script>

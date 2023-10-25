@@ -1,0 +1,9 @@
+{
+  "class-no_search": "no-search",
+  "class-next_page": "next-page",
+  "class-job_item": "job-item",
+  "class-job_link": "job_link",
+  "class-detail-box": "detail-box.has-background",
+  "class-detail_row": "detail-row",
+  "class-detail_title": "detail-title"
+}

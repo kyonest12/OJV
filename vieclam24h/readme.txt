@@ -1,0 +1,2 @@
+- Craw theo 2 miền nam, bắc -> occupation -> jobDetail
+- URL jobDetail = domain + miền + occupation + occ_id + title_slug + "c" + occupation_ids_main + "p"+ province_ids

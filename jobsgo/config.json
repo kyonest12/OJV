@@ -1,0 +1,10 @@
+{
+  "class-list_job": "item",
+  "class-title" : "media-heading.text-semibold",
+  "class-salary": "saraly.text-bold.text-green",
+  "class-basic_info": "col-sm-4.col-xs-6",
+  "class-detail": ["content-group", "h5.text-semibold"],
+  "class-detail_place": "data.giaphv",
+  "class-detail_field": "list",
+  "class-des-benefits-require" : "clearfix"
+}
