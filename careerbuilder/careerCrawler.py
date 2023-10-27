@@ -115,7 +115,10 @@ def crawData(soup):
             retry += 1
         if detailPage is not None:
             detailPage = BeautifulSoup(detailPage.text, 'lxml')
-            crawDetail(detailPage)
+            try:
+                crawDetail(detailPage)
+            except Exception as e:
+                print(e)
         else:
             print("max retries with this URL")
             print("____________________________________________")

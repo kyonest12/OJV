@@ -34,56 +34,61 @@ def crawData(detailUrl):
     job["job_web"] = domain
 
     print(detailUrl)
-    soup = soupResponse(domain+detailUrl, params={})
+    try:
+        soup = soupResponse(domain+detailUrl, params={})
 
-    basicInfo = soup.select_one(".com_info").find('h1', class_='com_post')
-    job["job_id"] = basicInfo['data-id']
-    job["job_title"] = basicInfo.text
+        basicInfo = soup.select_one(".com_info").find('h1', class_='com_post')
+        job["job_id"] = basicInfo['data-id']
+        job["job_title"] = basicInfo.text
 
-    basicInfo = soup.find_all("p", class_="index hidden_mobi")
-    for i in range(len(basicInfo)):
-        info = getText(basicInfo[i])
-        type = basicInfo[i].contents[0].strip()
-        if type == "Ngành nghề:":
-            job["job_field"] = info
-        if type == "Lĩnh vực:":
-            job["job_career"] = info
-        if type == "Mức lương:":
-            job["job_salary"] = info
+        basicInfo = soup.find_all("p", class_="index hidden_mobi")
+        for i in range(len(basicInfo)):
+            info = getText(basicInfo[i])
+            type = basicInfo[i].contents[0].strip()
+            if type == "Ngành nghề:":
+                job["job_field"] = info
+            if type == "Lĩnh vực:":
+                job["job_career"] = info
+            if type == "Mức lương:":
+                job["job_salary"] = info
 
-    detailInfo = soup.select(".detail_if")
-    for i in range(len(detailInfo)):
-        typ = detailInfo[i].find("p").text
-        if typ == "Chức vụ":
-            job["job_rank"] = detailInfo[i].find("span").text
-        if typ == "Địa chỉ chi tiết":
-            job["job_place"] = detailInfo[i].find("span").text
+        detailInfo = soup.select(".detail_if")
+        for i in range(len(detailInfo)):
+            typ = detailInfo[i].find("p").text
+            if typ == "Chức vụ":
+                job["job_rank"] = detailInfo[i].find("span").text
+            if typ == "Địa chỉ chi tiết":
+                job["job_place"] = detailInfo[i].find("span").text
 
-    detailInfo = soup.select(".mt_20")
-    for i in range(len(detailInfo)):
-        inf = []
-        for j in range(len(detailInfo[i].contents)):
-            text = detailInfo[i].contents[j].text.replace('\n', '').strip()
-            if text != "":
-                inf.append(text)
-        if len(inf) == 1:
-            inf.append("")
-        if inf[0] == "MÔ TẢ CÔNG VIỆC":
-                job["job_description"] = inf[1]
-        if inf[0] == "YÊU CẦU":
-                job["job_requirement"] = inf[1]
-        if inf[0] == "QUYỀN LỢI":
-            job["job_benefit"] = inf[1]
-            break
+        detailInfo = soup.select(".mt_20")
+        for i in range(len(detailInfo)):
+            inf = []
+            for j in range(len(detailInfo[i].contents)):
+                text = detailInfo[i].contents[j].text.replace('\n', '').strip()
+                if text != "":
+                    inf.append(text)
+            if len(inf) == 1:
+                inf.append("")
+            if inf[0] == "MÔ TẢ CÔNG VIỆC":
+                    job["job_description"] = inf[1]
+            if inf[0] == "YÊU CẦU":
+                    job["job_requirement"] = inf[1]
+            if inf[0] == "QUYỀN LỢI":
+                job["job_benefit"] = inf[1]
+                break
 
-    print(job)
-    print("finish")
-    print("____________________________")
+        print(job)
+        print("finish")
+        print("____________________________")
+    except Exception as e:
+        print(e)
+        return
 
 
 def getDetailJobs(cateJobUrl):
     print(cateJobUrl)
     params = {"page": 1}
+    print(params["page"])
     while 1:
         listDetailJobsA = soupResponse(cateJobUrl, params=params).select(".item_cate")
         if len(listDetailJobsA) == 0:

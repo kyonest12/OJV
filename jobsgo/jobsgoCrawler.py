@@ -9,7 +9,8 @@ with open(file_path, "r") as file:
 
 
 def getData(detailURL):
-    detailURL = "https://jobsgo.vn/viec-lam/nhan-vien-tu-van-tai-chinh-kenh-dich-vu-khach-hang-nest-by-aia-luong-16800000d-hoa-hong-10-30-16042162705.html"
+    #detailURL = "https://jobsgo.vn/viec-lam/nhan-vien-kinh-doanh-ban-ghtn-dong-bac-bo-16205477338.html"
+    print(detailURL)
     detailJob = BeautifulSoup(requests.get(detailURL).text, "html.parser")
 
     job = {}
@@ -27,8 +28,11 @@ def getData(detailURL):
 
     basic_info = detailJob.select(f".{config['class-basic_info']}")
     for i in range(len(basic_info)):
-        type = basic_info[i].select("p")[0].text
-        value = basic_info[i].select("p")[1].text
+        vp = basic_info[i].select("p")
+        if len(vp) < 2:
+            continue
+        type = vp[0].text
+        value = vp[1].text
         if type == "Tính chất công việc":
             job["job_characteristic"] = value
         if type == "Vị trí/chức vụ":
@@ -77,26 +81,33 @@ def getData(detailURL):
     job["job_web"] = "https://jobsgo.vn/"
 
     print(job)
-    #job["job_postingDate"] = detailJob.select_one()
 
 
 def getLinkToDetail(html):
-    html = html.select("a")
+    html = html.select(".brows-job-company-img")
     for i in range(len(html)):
-        getData(html[i].get('href'))
-        print("finish")
-        print("_____________________________________")
-    return False
+        url = html[i].select_one("a").get('href')
+        try:
+            getData(url)
+            print("finish")
+            print("_____________________________________")
+        except Exception as e:
+            print(e)
+            return
 
 
-initial_url = "https://jobsgo.vn/"
+initial_url = "https://jobsgo.vn"
+cur_page = "/viec-lam-trang-1.html?view=ajax"
 
-response = requests.get(initial_url + "viec-lam-trang-1.html?view=ajax")
-
-soup = BeautifulSoup(response.text, 'lxml')
 while (1):
+    print(cur_page)
+    response = requests.get(initial_url + cur_page)
+    soup = BeautifulSoup(response.text, 'lxml')
     list_job = soup.select_one(f".{config['class-list_job']}")  # config['class-list_job']
     if list_job is None:
         break
     getLinkToDetail(list_job)
+    cur_page = soup.select_one(".next").find("span").get("data-href")
+
+
 
